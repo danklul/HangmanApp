@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hänga gubbe</string>
+    <string name="you_won">Du vann!</string>
+    <string name="you_lost">Du förlorade :(</string>
+    <string name="about">Om</string>
+    <string name="play">Spela</string>
+    <string name="hangman">Hänga gubbe 2.0</string>
+    <string name="guess">Gissa</string>
+    <string name="secret_word">Hemligt Ord</string>
+    <string name="tries_left">Antal Försök Kvar</string>
+    <string name="guessestext">guessesText</string>
+    <string name="guessview">guessView</string>
+    <string name="resultview">resultView</string>
+    <string name="wordview">wordView</string>
+    <string name="back_to_main_menu">Tillbaka till Huvudmenyn</string>
+    <string name="programmedBy">Programmerad av Daniel Ekroth ;)</string>
+    <string name="enter_letter">Välj en bokstav</string>
+    <string name="abouticon">Om</string>
+    <string name="play_new_game">Spela ett nytt spel</string>
+    <string name="abouticon2">Om</string>
+
+    <string-array name="wordArray">
+        <item>"hej"</item>
+        <item>"värld"</item>
+        <item>"fotboll"</item>
+        <item>"himmel"</item>
+        <item>"rymden"</item>
+        <item>"val"</item>
+        <item>"sko"</item>
+        <item>"drake"</item>
+        <item>"hund"</item>
+        <item>"sol"</item>
+        <item>"månen"</item>
+        <item>"dator"</item>
+        <item>"fot"</item>
+        <item>"flaska"</item>
+        <item>"telefon"</item>
+        <item>"apa"</item>
+        <item>"soffa"</item>
+        <item>"docka"</item>
+    </string-array>
+</resources>

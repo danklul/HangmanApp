@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">HangmanApp</string>
+
+    <string name="you_won">You Won!</string>
+    <string name="you_lost">You Lost! ;(</string>
+    <string name="about">About</string>
+    <string name="play">Play</string>
+    <string name="hangman">Hangman 2.0</string>
+    <string name="guess">Guess</string>
+    <string name="secret_word">Secret Word</string>
+    <string name="tries_left">Tries Left</string>
+    <string name="guessestext">guessesText</string>
+    <string name="guessview">guessView</string>
+    <string name="resultview">resultView</string>
+    <string name="wordview">wordView</string>
+    <string name="back_to_main_menu">BACK TO MAIN MENU</string>
+    <string name="programmedBy">Programmed by Daniel Ekroth ;)</string>
+    <string name="enter_letter">Enter Letter</string>
+    <string name="abouticon">About</string>
+    <string name="play_new_game">Play new game</string>
+    <string name="abouticon2">About</string>
+
+
+    <string-array name="wordArray">
+        <item>"hello"</item>
+        <item>"world"</item>
+        <item>"soccer"</item>
+        <item>"sky"</item>
+        <item>"space"</item>
+        <item>"whale"</item>
+        <item>"shoe"</item>
+        <item>"dragon"</item>
+        <item>"dog"</item>
+        <item>"sun"</item>
+        <item>"moon"</item>
+        <item>"computer"</item>
+        <item>"feet"</item>
+        <item>"bottle"</item>
+        <item>"phone"</item>
+        <item>"monkey"</item>
+        <item>"sofa"</item>
+        <item>"doll"</item>
+    </string-array>
+</resources>
